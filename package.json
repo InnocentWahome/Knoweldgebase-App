@@ -6,7 +6,7 @@
   "scripts": {
     "start": "node app"
   },
-  "author": "Brad Traversy",
+  "author": "Innocent Maina",
   "license": "ISC",
   "dependencies": {
     "bcrypt": "^5.0.0",
