@@ -14,3 +14,5 @@ Run app
 ```sh
 $ npm start
 ```
+
+Populate .env file with configs shown in dotenvexample file
